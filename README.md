@@ -29,7 +29,9 @@
 ## 기술 스택
 | 구분 | 기술 요소 |
 |:----:|:----:|
-| AI 모델 | Python, PyTorch, OpenCV, Scikit-learn |
+| 프로그래밍 언어 | Python |
+| 영상 및 데이터 처리 | OpenCV, Pandas |
+| AI 모델 | PyTorch, Scikit-learn |
 | 백엔드 | Flask | 
 | 프론트엔드 | Dash, Plotly Express |
 
