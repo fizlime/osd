@@ -27,11 +27,13 @@
 ---
 
 ### 기술 스택
-1. AI 모델: Python, PyTorch, OpenCV
-2. 백엔드: Flask
-3. 프론트엔드: Dash, Plotly Express
----
+| 구분 | 기술 요소 |
+|:----:|:----:|
+| AI 모델 | Python, PyTorch, OpenCV |
+| 백엔드 | Flask | 
+| 프론트엔드 | Dash, Plotly Express |
 
+---
 ### 기대 효과
 - CCTV 기반 실시간 예측으로 국지성 집중 호우 피해 실시간 대응 가능
 - 고정밀 측정 데이터 구축으로 날씨 사각지대 해소
